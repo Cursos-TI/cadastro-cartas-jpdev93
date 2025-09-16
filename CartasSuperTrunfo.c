@@ -26,7 +26,7 @@ int main() {
    float pib2;
    int pontosdeturismo2;
 
-  //  parte do codigo em que pede ao usuario dados da CARTA 1 usando printf e scanf // \n\n para pular 2 linhas
+  //  parte do codigo em que pede ao usuario dados da CARTA 1 usando printf e scanf //usei \n\n para pular 2 linhas
   
   printf("DESAFIO SUPER TRUNFO FANOR \n\n");
    
@@ -55,7 +55,7 @@ int main() {
 
   printf("\n\n");
 
-  //  parte do codigo em que pede ao usuario dados da CARTA 1 usando printf e scanf
+  //  parte do codigo em que pede ao usuario dados da CARTA 2 usando printf e scanf // usei \n\n para pular 2 linhas 
 
   printf(" DADOS DA CARTA 2 \n\n");
    
@@ -83,6 +83,7 @@ int main() {
   printf("\n\n");
 
   // DADOS DA CARTA 1 // PARTE DO CODIGO QUE IMPRIME NA TELA O QUE O USUARIO DIGITOU NA CARTA 1
+
 printf (" CARTA 1 \n");
 
 printf("NOME DO ESTADO: %s \n", estado1);
@@ -101,7 +102,9 @@ printf("PONTOS TURISTICOS: %d \n", pontosdeturismo1);
 
 printf("\n\n");
 
+
 //DADOS DA CARTA 2 // PARTE DO CODIGO QUE IMPRIME NA TELA O QUE O USUARIO DIGITOU NA CARTA 2 
+
 
 printf (" CARTA 2 \n");
 
